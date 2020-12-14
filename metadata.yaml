@@ -1,0 +1,31 @@
+_repo: The-Works-of-the-Rev-John-Wesley-Vol-03-of-32_63909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wesley, John
+    aliases:
+    - Wesley, John (John Benjamin)
+    - Wesley, Rev. John
+    - Wesley, John (Rev.)
+    birthdate: 1703
+    deathdate: 1791
+    gutenberg_agent_id: '34731'
+    url: http://www.gutenberg.org/2009/agents/34731
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley
+description: ''
+gutenberg_issued: '2020-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodist Church'
+- !lcsh 'Theology -- Early works to 1800'
+- !lcc 'BX'
+- !lcsh 'Theology -- History -- 18th century'
+- GITenberg
+title: The Works of the Rev. John Wesley, Vol. 03 (of 32)
+url: http://www.gutenberg.org/ebooks/63909
